@@ -1,0 +1,10 @@
+Cartooning an Image using OpenCV – Python
+Count number of Object using Python-OpenCV
+Count number of Faces using Python – OpenCV
+Handwritten Digit Recognition using Neural Network
+CIFAR-10 Image Classification in TensorFlow
+Black and white image colorization with OpenCV and Deep Learning
+ML | Kaggle Breast Cancer Wisconsin Diagnosis using Logistic Regression
+Cancer cell classification using Scikit-learn
+Traffic Signs Recognition using CNN and Keras in Python
+Lung Cancer Detection using Convolutional Neural Network (CNN)

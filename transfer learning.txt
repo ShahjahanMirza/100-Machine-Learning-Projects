@@ -1,0 +1,10 @@
+Prediction of Wine type using Deep Learning
+IPL Score Prediction Using Deep Learning
+Identifying handwritten digits using Logistic Regression in PyTorch
+Microsoft Stock Price Prediction with Machine Learning
+Dog Breed Classification using Transfer Learning
+Lung Cancer Detection Using Transfer Learning
+Black and white image colorization with OpenCV and Deep Learning
+Multiclass image classification using Transfer learning
+Image Caption Generator using Deep Learning on Flickr8K dataset
+Fine-tuning the BERT model for Sentiment Analysis
