@@ -4,7 +4,9 @@ Sales Forecast Prediction – Python
 Calories Burnt Prediction using Machine Learning
 Vehicle Count Prediction From Sensor Data
 Box Office Revenue Prediction Using Linear Regression in ML
-Online Payment Fraud Detection using Machine Learning in Python
 Waiter’s Tip Prediction using Machine Learning
 Predict Fuel Efficiency Using Tensorflow in Python
 Microsoft Stock Price Prediction with Machine Learning
+Dogecoin Price Prediction with Machine Learning
+Microsoft Stock Price Prediction with Machine Learning
+IPL Score Prediction Using Deep Learning

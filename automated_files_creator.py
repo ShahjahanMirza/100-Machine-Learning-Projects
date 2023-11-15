@@ -29,3 +29,5 @@ def automted_file_creator(directory_name):
                 counter += 1
             
 automted_file_creator("e:/100-ML-Projects/")
+
+
